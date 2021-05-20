@@ -16,6 +16,7 @@
     "original": "Good night",
     "translated_alternatives": ["Доброй ночи"],
     "translated": "Спокойной ночи"
+  },
   {
     "original_alternatives": ["Bye", "Bye Bye"],
     "original": "Goodbye",
@@ -40,7 +41,7 @@
   },
   {
     "original": "What's your name?",
-    "translated_alternatives": ["Как тебя зовут?"]
+    "translated_alternatives": ["Как тебя зовут?"],
     "translated": "Как вас зовут?"
   },
   {
