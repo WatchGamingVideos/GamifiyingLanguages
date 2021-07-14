@@ -3,7 +3,13 @@ layout: default
 title: Home
 ---
 
-# Learn X in Y Minutes (Language Edition) [WORK IN PROGRESS]
+> **IMPORTANT!**
+> 
+> I'll be shutting down this project on August 1, 2021. Thanks for all the contributors over the years!
+>
+> _Wayne_ (Project Organizer)
+
+# Learn X in Y Minutes (Language Edition)
 
 Select your language to the language you want to learn.
 
