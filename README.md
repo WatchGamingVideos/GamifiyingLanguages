@@ -4,6 +4,12 @@ title: Readme
 permalink: /readme
 ---
 
+> **IMPORTANT!**
+> 
+> I'll be archiving this project on August 1, 2021. Thanks for all the contributors over the years!
+>
+> _Wayne_
+
 # Learn X in Y Minutes (Language Edition)
 
 
